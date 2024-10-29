@@ -1,0 +1,37 @@
+/* styles/Skill.module.css */
+.card {
+    display: flex;
+    align-items: center;
+    background-color: #18222D;
+    padding: 1.5rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    transition: transform 0.2s;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .icon {
+    width: 40px;
+    height: 40px;
+    margin-right: 1rem;
+  }
+  
+  .textContainer {
+    flex: 1;
+  }
+  
+  .cardHeading {
+    font-size: 1.2rem;
+    color: #FFFFFF;
+    margin: 0;
+  }
+  
+  .cardText {
+    font-size: 0.9rem;
+    color: #AAB0B6;
+    margin-top: 0.5rem;
+  }
+  

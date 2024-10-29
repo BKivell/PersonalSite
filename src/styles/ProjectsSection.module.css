@@ -1,0 +1,14 @@
+.projectsSection {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    padding: 4rem 2rem;
+    background-color: #1E2A38;
+  }
+  
+  @media (min-width: 768px) {
+    .projectsSection {
+      padding: 6rem 4rem;
+    }
+  }
+  

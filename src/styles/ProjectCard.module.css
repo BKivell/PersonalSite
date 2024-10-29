@@ -1,0 +1,73 @@
+.projectCard {
+    display: flex;
+    align-items: center;
+    margin-bottom: 3rem;
+    padding: 2rem;
+    background-color: #18222D;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+  
+.reverse {
+    flex-direction: row-reverse;
+}
+  
+.image {
+    max-width: 600px;
+    max-height: 330px;
+    object-fit: contain;
+    margin-right: 2rem;
+}
+  
+.textContainer {
+    max-width: 600px;
+}
+  
+.heading {
+    font-size: 1.5rem;
+    color: #FFFFFF;
+}
+  
+.skills {
+    font-size: 0.875rem;
+    color: #FFB703;
+}
+  
+.description {
+    font-size: 1rem;
+    color: #AAB0B6;
+}
+
+/* Mobile Adjustments */
+@media (max-width: 768px) {
+    .projectCard {
+        flex-direction: column;
+        padding: 1.5rem;
+        text-align: center;
+    }
+    
+    .reverse {
+        flex-direction: column;
+    }
+    
+    .image {
+        max-width: 100%;
+        margin-right: 0;
+        margin-bottom: 1rem;
+    }
+    
+    .textContainer {
+        max-width: 100%;
+    }
+    
+    .heading {
+        font-size: 1.25rem;
+    }
+    
+    .skills {
+        font-size: 0.875rem;
+    }
+    
+    .description {
+        font-size: 0.9rem;
+    }
+}
