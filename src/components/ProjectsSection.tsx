@@ -16,19 +16,19 @@ const ProjectsSection = () => {
             title: 'Soft Robotics Tracking Algorithms',
             skills: 'OpenCV, Python',
             description: 'Developed and fine-tuned tracking algorithms tailored for soft robotics applications. Implemented methods like region-growing segmentation to enhance tracking precision, contributing to better movement analysis in soft robotic systems.',
-            imageSrc: '/ImageProcessing.png',
+            imageSrc: '/ImageProcessing.PNG',
         },
         {
             title: "Yasmin's Bakery Website",
             skills: 'Next.js, CSS',
             description: 'Created a responsive and visually appealing website for Yasmin’s Bakery. Designed to boost customer engagement, this project focused on delivering a user-friendly experience that showcases the bakery’s unique offerings.',
-            imageSrc: '/YasminsSite.png',
+            imageSrc: '/YasminsSite.PNG',
         },
         {
             title: 'Self-Watering Plant System',
             skills: 'Raspberry Pi, Arduino, Python',
             description: 'Engineered an automated system that monitors soil moisture levels to maintain optimal hydration for plants. Integrated with Raspberry Pi and Arduino, the project features a user interface for real-time monitoring, enhancing ease of use.',
-            imageSrc: '/PlantMonitor.png',
+            imageSrc: '/PlantMonitor.PNG',
         },
         {
             title: 'Arcade-Style Mobile Apps',
