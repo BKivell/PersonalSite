@@ -5,6 +5,13 @@
     padding: 4rem 2rem;
     background-color: #1E2A38;
   }
+
+  .heading {
+    font-size: 2rem;
+    color: #FFB703;
+    text-align: center;
+    margin-bottom: 1rem;
+}
   
   @media (min-width: 768px) {
     .projectsSection {

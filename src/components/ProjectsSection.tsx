@@ -52,6 +52,7 @@ const ProjectsSection = () => {
 
     return (
         <div className={styles.projectsSection}>
+            <h2 className={styles.heading}>Some of my Projects</h2>
             {projects.map((project, index) => (
                 <ProjectCard
                     key={index}

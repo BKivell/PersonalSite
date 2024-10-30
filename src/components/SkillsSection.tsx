@@ -12,7 +12,7 @@ const skillsData = [
   { name: "Git", description: "Version control for project tracking.", icon: "/icons/GitIcon.png" },
   { name: "MongoDB", description: "NoSQL database for scalable applications.", icon: "/icons/MongodbIcon.png" },
   { name: "Python", description: "Versatile programming language for scripting and development.", icon: "/icons/PythonIcon.png" },
-  { name: "OpenCV", description: "Computer vision library for image processing.", icon: "/icons/OpenCVIcon.png" },
+  { name: "OpenCV", description: "Computer vision library for image processing.", icon: "/icons/OpencvIcon.png" },
 ];
 export default function SkillsSection() {
   return (
