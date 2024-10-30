@@ -12,7 +12,7 @@ export default function BradSection() {
       <div className={styles.textRight}>
         <h2 className={styles.aboutHeading}>A bit about me</h2>
         <p className={styles.aboutText}>
-          Hi! I&apos;m a software engineering student at AUT with a passion for problem-solving and creating things that make life easier. Always learning, always curious.
+          Kia Ora! I&apos;m a software engineering student at AUT with a passion for problem-solving and creating things that make life easier. Always learning, always curious.
         </p>
       </div>
     </section>
