@@ -21,13 +21,13 @@ const ProjectsSection = () => {
         {
             title: "Yasmin's Bakery Website",
             skills: 'Next.js, CSS',
-            description: 'Created a responsive and visually appealing website for Yasmin’s Bakery. Designed to boost customer engagement, this project focused on delivering a user-friendly experience that showcases the bakery’s unique offerings.',
+            description: 'Created a responsive and visually appealing website for Yasmin’s Bakery. This project focused on delivering a user-friendly experience that showcases the Yasmins baking.',
             imageSrc: '/YasminsSite.PNG',
         },
         {
             title: 'Self-Watering Plant System',
             skills: 'Raspberry Pi, Arduino, Python',
-            description: 'Engineered an automated system that monitors soil moisture levels to maintain optimal hydration for plants. Integrated with Raspberry Pi and Arduino, the project features a user interface for real-time monitoring, enhancing ease of use.',
+            description: 'Developed an automated system that monitors soil moisture levels to maintain optimal hydration for plants. Integrated with Raspberry Pi and Arduino, the project features a user interface for real-time monitoring, enhancing ease of use.',
             imageSrc: '/PlantMonitor.PNG',
         },
         {

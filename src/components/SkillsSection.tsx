@@ -8,7 +8,6 @@ const skillsData = [
   { name: "TypeScript", description: "A typed superset of JavaScript.", icon: "/icons/TypescriptIcon.png" },
   { name: "Tailwind CSS", description: "A utility-first CSS framework.", icon: "/icons/TailwindIcon.png" },
   { name: "React", description: "JavaScript library for building UI.", icon: "/icons/ReactIcon.png" },
-  { name: "Node.js", description: "JavaScript runtime for server-side development.", icon: "/icons/NodejsIcon.png" },
   { name: "Git", description: "Version control for project tracking.", icon: "/icons/GitIcon.png" },
   { name: "MongoDB", description: "NoSQL database for scalable applications.", icon: "/icons/MongodbIcon.png" },
   { name: "Python", description: "Versatile programming language for scripting and development.", icon: "/icons/PythonIcon.png" },
