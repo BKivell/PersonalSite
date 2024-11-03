@@ -7,16 +7,22 @@ import styles from "../styles/ProjectsSection.module.css";
 const ProjectsSection = () => {
     const projects = [
         {
-            title: 'Zomboly',
-            skills: 'Unity3D, C#, Blender',
-            description: 'Collaboratively developed a zombie-themed first-person shooter game in Unity3D. As Tech Lead, I tackled key technical challenges, ensured smooth component integration, and fostered a cohesive team dynamic. This project sharpened my skills in estimation, component integration, and team communication.',
-            imageSrc: '/ZombolyScreenshot.png',
-        },
-        {
             title: 'Soft Robotics Tracking Algorithms',
             skills: 'OpenCV, Python',
             description: 'Developed and fine-tuned tracking algorithms tailored for soft robotics applications. Implemented methods like region-growing segmentation to enhance tracking precision, contributing to better movement analysis in soft robotic systems.',
             imageSrc: '/ImageProcessing.PNG',
+        },
+        {
+            title: 'Evolocity Electric Go-Kart',
+            skills: 'Electric Vehicle Design, Sustainable Engineering',
+            description: 'Built an electric go-kart from 100% recycled materials as part of Evolocity. Achieved first place in the drag race and received the Earth Care award for sustainable design, emphasizing eco-friendly practices and efficient performance.',
+            imageSrc: '/Evolocity.jpg',
+        },
+        {
+            title: 'Zomboly',
+            skills: 'Unity3D, C#, Blender',
+            description: 'Collaboratively developed a zombie-themed first-person shooter game in Unity3D. As Tech Lead, I tackled key technical challenges, ensured smooth component integration, and fostered a cohesive team dynamic. This project sharpened my skills in estimation, component integration, and team communication.',
+            imageSrc: '/ZombolyScreenshot.png',
         },
         {
             title: "Yasmin's Bakery Website",
@@ -41,12 +47,6 @@ const ProjectsSection = () => {
             skills: 'Linux, Java, C++, Python, JavaScript, Node.js',
             description: 'Worked on a wide range of university projects covering data structures, algorithms, fuzzy logic, and traversal methods. Gained hands-on experience with Linux and multiple programming languages, building a strong foundation in software development.',
             imageSrc: '/AUTImage.jpg',
-        },
-        {
-            title: 'Evolocity Electric Go-Kart',
-            skills: 'Electric Vehicle Design, Sustainable Engineering',
-            description: 'Built an electric go-kart from 100% recycled materials as part of Evolocity. Achieved first place in the drag race and received the Earth Care award for sustainable design, emphasizing eco-friendly practices and efficient performance.',
-            imageSrc: '/Evolocity.jpg',
         },
     ];
 
